@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dsajeet
-- 👀 I’m interested in Data Analyticd And Machine Learning
+- 👀 I’m interested in Data Analytics And Machine Learning
 - 🌱 I’m currently learning Driverless Technolgy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
